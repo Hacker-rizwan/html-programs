@@ -1,0 +1,5 @@
+ my fav color = blue,black,white,green
+ my fav food = biriyani
+ my fav actor = vijay
+ my fav cartoons = ben 10,dorimon,creep school,anales tails,natuto
+ lucky number = two
